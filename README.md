@@ -1,4 +1,4 @@
-# bts535-grp4lab3
+# Bike Store Project Planning
 
 Describe the problem:
 
